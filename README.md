@@ -1,18 +1,18 @@
 proto-up
 ========
 
-# Pure Boilerplate (CSS, HTML, maybe a touch of JS)
+## Pure Boilerplate (CSS, HTML, maybe a touch of JS)
 * [Skeleton](http://www.getskeleton.com/)
 
-# Boilerplate with more JS and workflow
+## Boilerplate with more JS and workflow
 * [ng-boilerplate](https://github.com/ngbp/ngbp)
 
-# Live Layout tools
+## Live Layout tools
 * [Jetstrap](https://jetstrap.com/)
 
-# App-Builders
+## App-Builders
 * [Ionic Framework](http://ionicframework.com/)
 
-Frameworks
+## Frameworks
 * Bootstrap
 * Foundation (Zurb)
