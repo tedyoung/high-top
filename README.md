@@ -1,5 +1,5 @@
-proto-up
-========
+Production Prototypes
+=====================
 
 ## Pure Boilerplate (CSS, HTML, maybe a touch of JS)
 * [Skeleton](http://www.getskeleton.com/)
