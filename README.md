@@ -3,6 +3,7 @@ Production Prototypes
 
 ## Pure Boilerplate (CSS, HTML, maybe a touch of JS)
 * [Skeleton](http://www.getskeleton.com/)
+* [HTML5up](http://html5up.net/) - This is a template generator (based on skeljs), so not sure where it goes.
 
 ## Scaffolding (i.e., boilerplate with more JS and workflow tools)
 * [ng-boilerplate](https://github.com/ngbp/ngbp)
@@ -25,12 +26,13 @@ Production Prototypes
 ## Static Site Generators
 * [MiddleMan](http://middlemanapp.com/)
 
-## Frameworks
+## Front-End Frameworks
 * [Bootstrap](http://getbootstrap.com) - One of the main "frameworks" for web sites
 * Foundation (Zurb)
 * [Ratchet](http://goratchet.com/) - like Bootstrap, but solely for mobile.
 * [Semantic UI](http://semantic-ui.com/)
 * [Base](http://matthewhartman.github.io/base/) - Mobile first
+* [skeljs](http://skeljs.org/)
 
 ## Icons
 * [Captain Icon](http://mariodelvalle.github.io/CaptainIcon)
