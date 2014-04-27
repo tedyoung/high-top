@@ -4,8 +4,10 @@ Production Prototypes
 ## Pure Boilerplate (CSS, HTML, maybe a touch of JS)
 * [Skeleton](http://www.getskeleton.com/)
 
-## Boilerplate with more JS and workflow
+## Scaffolding (i.e., boilerplate with more JS and workflow tools)
 * [ng-boilerplate](https://github.com/ngbp/ngbp)
+* [Yeoman](http://yeoman.io/)
+* [FireShell](http://getfireshell.com/)
 
 ## Live Layout tools
 * [Jetstrap](https://jetstrap.com/)
@@ -48,9 +50,17 @@ Production Prototypes
 
 ## HTML/JS/CSS Live Editors with Preview
 * jsbin
-* plunker
+* [Plunker](http://plnkr.co/)
 * jsfiddle
  
 ## Resource sites
-* (http://thewebblend.com/)
+* [The Web Blend](http://thewebblend.com/)
+* [The Code Player](http://thecodeplayer.com/)
+
+# Design Ideas
+
+## Non-trivial Web Apps
+* [Groove](http://www.groovehq.com)
+* [LivePlan](http://www.liveplan.com)
 * 
+
