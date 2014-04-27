@@ -29,8 +29,8 @@ Production Prototypes
 * [Bootstrap](http://getbootstrap.com) - One of the main "frameworks" for web sites
 * Foundation (Zurb)
 * [Ratchet](http://goratchet.com/) - like Bootstrap, but solely for mobile.
-* [Semantic UI](http://semantic-ui.com/) - 
-* [Base](http://matthewhartman.github.io/base/)
+* [Semantic UI](http://semantic-ui.com/)
+* [Base](http://matthewhartman.github.io/base/) - Mobile first
 
 ## Icons
 * [Captain Icon](http://mariodelvalle.github.io/CaptainIcon)
