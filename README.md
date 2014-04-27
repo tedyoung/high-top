@@ -25,6 +25,7 @@ Production Prototypes
 * [Bootstrap](http://getbootstrap.com) - One of the main "frameworks" for web sites
 * Foundation (Zurb)
 * [Ratchet](http://goratchet.com/) - like Bootstrap, but solely for mobile.
+* [Semantic UI](http://semantic-ui.com/) - 
 
 ## Icons
 * [Captain Icon](http://mariodelvalle.github.io/CaptainIcon)
@@ -40,9 +41,16 @@ Production Prototypes
 * [CodeShare](http://codeshare.io)
 * 
 
+## Tools/Components
+
+### JavaScript Editors
+* [Epic Editor](https://github.com/OscarGodson/EpicEditor)
+
 ## HTML/JS/CSS Live Editors with Preview
 * jsbin
 * plunker
 * jsfiddle
+ 
+## Resource sites
+* (http://thewebblend.com/)
 * 
-
