@@ -13,6 +13,10 @@ proto-up
 ## App-Builders
 * [Ionic Framework](http://ionicframework.com/)
 
+## Web site Builders
+* [Webydo](http://www.webydo.com/) - for designed static sites
+
+
 ## Frameworks
 * Bootstrap
 * Foundation (Zurb)
