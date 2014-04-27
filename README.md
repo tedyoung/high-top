@@ -47,19 +47,25 @@ Production Prototypes
 * 
 
 ## HTML/JS/CSS Live Editors with Preview
-* jsbin
+* [JS Bin](http://jsbin.com)
 * [Plunker](http://plnkr.co/)
-* jsfiddle
+* [JSFiddle](http://jsfiddle.net/)
  
-## Resource sites
+## Web Coding/Design Resource sites
 * [The Web Blend](http://thewebblend.com/)
 * [The Code Player](http://thecodeplayer.com/)
 * [dzyngiri](http://www.dzyngiri.com/)
 
-## Tools/Components
+## Tools/Components for Embedding
 
 ### JavaScript Editors
 * [Epic Editor](https://github.com/OscarGodson/EpicEditor)
+
+### Back-end Services
+* [UserApp](https://www.userapp.io/)
+
+### Grid/Tables
+* [ng-grid](http://angular-ui.github.io/ng-grid/)
 
 # Design Ideas
 
