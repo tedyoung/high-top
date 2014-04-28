@@ -12,6 +12,7 @@ Production Prototypes
 
 ## Live Layout tools
 * [Jetstrap](https://jetstrap.com/)
+* [Shoelace](https://shoelace.io/) - Visual Bootstrap 3 Grid Builder
 
 ## Mockup Tools
 * [JumpChart](https://www.jumpchart.com/) - for collaborative mockup, with navigation "architecture" tools
