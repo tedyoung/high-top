@@ -5,7 +5,9 @@ Production Prototypes
 * [Skeleton](http://www.getskeleton.com/)
 * [HTML5up](http://html5up.net/) - This is a template generator (based on skeljs), so not sure where it goes.
 
-## Scaffolding (i.e., boilerplate with more JS and workflow tools)
+## Scaffolding
+> Boilerplate with workflow ("make", "build") tools
+
 * [ng-boilerplate](https://github.com/ngbp/ngbp)
 * [Yeoman](http://yeoman.io/)
 * [FireShell](http://getfireshell.com/)
