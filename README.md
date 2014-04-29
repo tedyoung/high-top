@@ -1,7 +1,9 @@
 Production Prototypes
 =====================
 
-## Pure Boilerplate (CSS, HTML, maybe a touch of JS)
+## Pure Boilerplate
+> CSS, HTML, maybe JS
+
 * [Skeleton](http://www.getskeleton.com/)
 * [HTML5up](http://html5up.net/) - This is a template generator (based on skeljs), so not sure where it goes.
 
