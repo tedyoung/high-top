@@ -15,10 +15,15 @@ Production Prototypes
 * [FireShell](http://getfireshell.com/)
 
 ## Live Layout tools
+
+### Web-based
 * [Jetstrap](https://jetstrap.com/)
 * [Shoelace](https://shoelace.io/) - Visual Bootstrap 3 Grid Builder
 * [DesignModo Generator](http://designmodo.com/generator/) - drag-n-drop content blocks and generates HTML/JS/CSS
 * [DesignModo Startup](http://designmodo.com/startup/) - $249 for the whole deal with 100s of components, seems aimed at very simple landing-page-style single (looong) page sites.
+* [Froont](http://froont.com/) - Visual responsive page design (only works in Chrome!), no interactivity yet.
+
+### Installed/Native
 * [Macaw](http://macaw.co/) - native (not web-based) app for Mac and Windows
 * [Pinegrow](http://pinegrow.com/) - installed app for Mac, Windows, Linux, has [web-based trial](http://pinegrow.com/edit.html) so this might be a Chrome-based app?
 
@@ -34,6 +39,13 @@ Production Prototypes
 
 ## Web site Builders
 * [Webydo](http://www.webydo.com/) - for designed static sites, has hosting
+
+## Forms Only
+* [TypeForm](http://www.typeform.com/) - Form processing (registration, surveys, etc.)
+
+## Analytics
+* [Formisimo](http://www.formisimo.com/) - This is interesting, it's an optimizer/analytics that goes and fetches your form given a URL.
+
 
 ## Static Site Generators
 * [MiddleMan](http://middlemanapp.com/)
