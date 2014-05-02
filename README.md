@@ -58,6 +58,9 @@ Production Prototypes
 * [Base](http://matthewhartman.github.io/base/) - Mobile first
 * [skeljs](http://skeljs.org/)
 
+## HTML5 Widgets
+* [Webix](http://webix.com/) - Lots of widgets (GPL or commercial license), has some "Simple Server-Side Integration" support, but haven't looked at it yet.
+
 ## Icons
 * [Captain Icon](http://mariodelvalle.github.io/CaptainIcon)
 
