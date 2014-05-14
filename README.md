@@ -77,8 +77,9 @@ Production Prototypes
 
 ## Code Editors
 * [CodeShare](http://codeshare.io) - multi-user
+* [CodePen](http://codepen.io)
 * [Adobe Brackets](http://brackets.io/) - open source code editor for web designers and front-end developers.
-* [List of Code Editors](http://www.cssauthor.com/best-free-code-editors/) - Includes code editors and HTML editors (lots of awful ones) and a bunch of non-web ones (like TextPad and UltraEdit). 
+* [List of Code Editors](http://www.cssauthor.com/best-free-code-editors/) - Includes code editors (like CodePen) and HTML editors (lots of awful ones) and a bunch of non-web ones (like TextPad and UltraEdit). 
 
 ## HTML/JS/CSS Live Editors with Preview
 * [JS Bin](http://jsbin.com)
@@ -100,6 +101,9 @@ Production Prototypes
 
 ### Grid/Tables
 * [ng-grid](http://angular-ui.github.io/ng-grid/)
+
+### Other Component sets/collections
+* [Thoughtbot Refills](http://thoughtbot.github.io/refills/) - Some nice components, not based on Bootstrap.
 
 # Design Ideas
 
