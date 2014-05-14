@@ -75,9 +75,9 @@ Production Prototypes
 ## Simple CMS/Blogging Platforms
 * [AnchorCMS](http://anchorcms.com/)
 
-## Multi-user Code Editors
-* [CodeShare](http://codeshare.io)
-* 
+## Code Editors
+* [CodeShare](http://codeshare.io) - multi-user
+* [Adobe Brackets](http://brackets.io/) - open source code editor for web designers and front-end developers.
 
 ## HTML/JS/CSS Live Editors with Preview
 * [JS Bin](http://jsbin.com)
