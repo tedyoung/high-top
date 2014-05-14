@@ -78,6 +78,7 @@ Production Prototypes
 ## Code Editors
 * [CodeShare](http://codeshare.io) - multi-user
 * [Adobe Brackets](http://brackets.io/) - open source code editor for web designers and front-end developers.
+* [List of Code Editors](http://www.cssauthor.com/best-free-code-editors/) - Includes code editors and HTML editors (lots of awful ones) and a bunch of non-web ones (like TextPad and UltraEdit). 
 
 ## HTML/JS/CSS Live Editors with Preview
 * [JS Bin](http://jsbin.com)
